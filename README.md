@@ -12,3 +12,9 @@
         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white" alt="LinkedIn"/>
     </a>
 </p>
+
+## Stats
+<p align="center">
+    <img src="https://readme-streak-verzional.vercel.app/?user=Verzional&theme=tokyonight" alt="GitHub Streak" width="50.5%" height="200px"/>
+    <img src="https://readme-stats-verzional.vercel.app/api?username=Verzional&show_icons=true&theme=tokyonight" alt="Verzional's GitHub Stats" width="47.5%" height="200px"/>
+</p>
