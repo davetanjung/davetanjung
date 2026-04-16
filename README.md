@@ -3,6 +3,8 @@
 - 🔭 Hi, i'm Dave Tanjung
 - 🌱 a Full-Stack Developer
 
+<div align="center">
+    
 ## Socials
 <p align="center">
     <a href="https://instagram.com/davetanjung">
@@ -15,6 +17,8 @@
 
 ## Stats
 <p align="center">
-    <img src="https://readme-streak-verzional.vercel.app/?user=Verzional&theme=tokyonight" alt="GitHub Streak" width="50.5%" height="200px"/>
-    <img src="https://readme-stats-verzional.vercel.app/api?username=Verzional&show_icons=true&theme=tokyonight" alt="Dave Tanjung's GitHub Stats" width="47.5%" height="200px"/>
+    <img src="https://readme-streak-verzional.vercel.app/?user=davetanjung&theme=buefy" alt="GitHub Streak" width="50.5%" height="200px"/>
+    <img src="https://readme-stats-verzional.vercel.app/api?username=davetanjung&show_icons=true&theme=buefy" alt="Dave Tanjung's GitHub Stats" width="47.5%" height="200px"/>
 </p>
+
+</div>
