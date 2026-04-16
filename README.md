@@ -2,8 +2,8 @@
 
 ## Dave Tanjung
 
-- 🔭 Hi, i'm Dave Tanjung
-- 🌱 a Full-Stack Developer
+🔭 Hi, i'm Dave Tanjung
+🌱 a natural Full-Stack Developer
 
 
     
